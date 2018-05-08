@@ -1,2 +1,2 @@
 # fit_vf
-Velocity-Field Fit assuming an infinitely thin disk
+Fit a velocity field assuming an infinitely thin disk in pure circular rotation.
